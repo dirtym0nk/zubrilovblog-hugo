@@ -1,0 +1,4 @@
+baseURL: "https://dirtym0nk.github.io/zubrilovblog-hugo/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
