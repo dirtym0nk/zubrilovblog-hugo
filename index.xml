@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://dirtym0nk.github.io/zubrilovblog-hugo/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2023 14:21:24 +0400</lastBuildDate><atom:link href="https://dirtym0nk.github.io/zubrilovblog-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://dirtym0nk.github.io/zubrilovblog-hugo/docs/test/</link>
+      <pubDate>Wed, 05 Apr 2023 14:21:24 +0400</pubDate>
+      
+      <guid>https://dirtym0nk.github.io/zubrilovblog-hugo/docs/test/</guid>
+      <description>test page some text</description>
+    </item>
+    
+  </channel>
+</rss>
